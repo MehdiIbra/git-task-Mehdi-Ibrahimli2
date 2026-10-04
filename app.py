@@ -1,2 +1,2 @@
-name = "Student"
-print("Git practice", name)
+name = input("Write your name")
+print(f"Hello, {name}!")
